@@ -1,0 +1,1 @@
+{"name":"mercy-barasa-co-advocates","version":"1.0.0","private":true,"scripts":{"check":"node scripts/check-site.mjs","dev":"npx serve . -l 4173","build":"npm run check"}}

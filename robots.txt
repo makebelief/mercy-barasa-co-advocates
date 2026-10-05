@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mercy-barasa-co-advocates.vercel.app/sitemap.xml
